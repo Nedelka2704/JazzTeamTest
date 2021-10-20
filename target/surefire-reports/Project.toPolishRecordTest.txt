@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: Project.toPolishRecordTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.091 s <<< FAILURE! - in Project.toPolishRecordTest
+test  Time elapsed: 0.07 s  <<< ERROR!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at Project.toPolishRecordTest.test(toPolishRecordTest.java:13)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	at Project.toPolishRecordTest.test(toPolishRecordTest.java:13)
+

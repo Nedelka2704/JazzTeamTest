@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: Project.junit.UserServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.079 s <<< FAILURE! - in Project.junit.UserServiceTest
+test  Time elapsed: 0.063 s  <<< ERROR!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at Project.junit.UserServiceTest.test(UserServiceTest.java:10)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	at Project.junit.UserServiceTest.test(UserServiceTest.java:10)
+
