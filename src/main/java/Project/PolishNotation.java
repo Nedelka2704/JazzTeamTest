@@ -126,5 +126,6 @@ public class PolishNotation {
         System.out.println(polsk);
         double a = getAnswer(polsk);
         System.out.println(a);
+        System.out.println("Hello Git");
     }
 }
